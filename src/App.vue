@@ -13,6 +13,7 @@
       <p :style="{ color: fahrenheitColor }">Fahrenheit: {{ fahrenheit }} °F</p>
       <p :style="{ color: kelvinColor }">Kelvin: {{ kelvin }} K</p>
     </div>
+    <p><b>Respuestas:</b> 1:c - 2:b - 3:c - 4:a</p>
   </div>
 </template>
 
